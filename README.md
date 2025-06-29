@@ -27,7 +27,7 @@
 - That’s when I discovered **Machine Learning**—the mathematical side of programming. I’ve always loved learning math, and this felt like my perfect blend of logic and creativity.
 - After grasping the basics, I started solving real-world problems that I encountered in my daily life. That’s become my focus: building practical solutions.
 - I’ve been practicing Machine Learning for about two years now, and I’m continuing my journey to make life easier for the many. Follow along if you’re interested!
-- 
+
 ---
 
 ## 📈 GitHub Stats
