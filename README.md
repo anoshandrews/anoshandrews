@@ -6,6 +6,15 @@
 
 ---
 
+## 🛠️ Tech Stack
+
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+---
+
 ## 💻 About Me
 
 - 🔭 I’m currently an aspiring Machine Learning Engineer
@@ -13,15 +22,6 @@
 - 🌱 Always learning new tech, tools, and random hobbies
 - 💡 Ask me about Python, ML, AI, and quirky art projects
 - ⚡ Fun fact: I sometimes talk to rubber ducks to debug my code.
-
----
-
-## 🛠️ Tech Stack
-
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 ---
 
