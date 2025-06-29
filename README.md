@@ -16,17 +16,16 @@
 ---
 
 ## ♨︎ About Me
-
-	•	My background is in Philosophy. You might be skeptical right now—but hear me out.
-	•	I was happily immersed in my philosophical studies until one day, I stumbled upon an old i3 4th Gen laptop that my brother had thrown away.
-	•	It had a dead battery. I wasn’t a complete stranger to computers, thanks to countless encounters with the Windows Blue Screen of Death.
-	•	The machine was dual-booted with Windows and Linux, but I didn’t know the Linux password. So, I decided to install Ubuntu myself.
-	•	In my peaceful endeavor to install Ubuntu and browse the web, I hit a wall: I couldn’t access Wi-Fi. Turns out, the drivers weren’t installed.
-	•	I typed every command I could find on Stack Overflow (which I didn’t even know existed until then). After a long day’s work, I finally cracked it—and it felt amazing.
-	•	Solving these technical puzzles gave me a real kick. It was a rush. But after a while, the fixes started to feel repetitive.
-	•	That’s when I discovered Machine Learning—the mathematical side of programming. I’ve always loved learning math, and this felt like my perfect blend of logic and creativity.
-	•	After grasping the basics, I started solving real-world problems that I encountered in my daily life. That’s become my focus: building practical solutions.
-	•	I’ve been practicing Machine Learning for about two years now, and I’m continuing my journey to make life easier for the many. Follow along if you’re interested!
+	-	My background is in Philosophy. You might be skeptical right now—but hear me out.
+	-	I was happily immersed in my philosophical studies until one day, I stumbled upon an old i3 4th Gen laptop that my brother had thrown away.
+	-	It had a dead battery. I wasn’t a complete stranger to computers, thanks to countless encounters with the Windows Blue Screen of Death.
+	-	The machine was dual-booted with Windows and Linux, but I didn’t know the Linux password. So, I decided to install Ubuntu myself.
+	-	In my peaceful endeavor to install Ubuntu and browse the web, I hit a wall: I couldn’t access Wi-Fi. Turns out, the drivers weren’t installed.
+	-	I typed every command I could find on Stack Overflow (which I didn’t even know existed until then). After a long day’s work, I finally cracked it—and it felt amazing.
+	-	Solving these technical puzzles gave me a real kick. It was a rush. But after a while, the fixes started to feel repetitive.
+	-	That’s when I discovered Machine Learning—the mathematical side of programming. I’ve always loved learning math, and this felt like my perfect blend of logic and creativity.
+	-	After grasping the basics, I started solving real-world problems that I encountered in my daily life. That’s become my focus: building practical solutions.
+	-	I’ve been practicing Machine Learning for about two years now, and I’m continuing my journey to make life easier for the many. Follow along if you’re interested!
 
 ---
 
