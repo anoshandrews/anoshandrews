@@ -15,14 +15,18 @@
 
 ---
 
-## 💻 About Me
+## ♨︎ About Me
 
-- 🔭 I’m currently an aspiring Machine Learning Engineer
-- 🎨 I love experimenting with art and creative coding
-- 🌱 Always learning new tech, tools, and random hobbies
-- 💡 Ask me about Python, ML, AI, and quirky art projects
-- ⚡ Fun fact: I sometimes talk to rubber ducks to debug my code.
-
+- My background is Philosophy. You might be sceptical right now, but listen to my story
+- I was peacefully pursuing my Philosophy studies unitl I came across an Old i3 4th Gen laptop which my brother threw away for good. 
+- It had a dead battery, I was not unknown to Computers, I was constantly bombarded with the Windows Blue Screen Of Death.
+- The Machine was on Dual boot, with Windows and Lunix, but the password to Linux was unknown to me so I installed Ubuntu for myself.
+- In my peaceful endeavours to install Ubuntu and search the web, I was not able to access the wiif. Later did I realize that the wifi drivers were not installed.
+- I typed what all commands that I found on Stack Overflow(which I did not even know what it was) after long day's work, I finally did it, and you know what, it felt good.
+- Solving these stuff gave me a kick. I describe it as the moment that I felt a rush, but little along the way, things felt repetitive.
+- It was then that I discovered Machine Learning, the Mathematical part of programming. I loved learning Math, and this was my cup of tea.
+- After learning the basics, I got to solving real world problems that I faced on a day to day basis. So I focus of building solutions to those.
+- Being a practicioner of Machine Learning for about 2 years, now I am continuing my journey to make lives easier for the multitde. Follow along with me if you are intersted.
 ---
 
 ## 📈 GitHub Stats
