@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Daddy 👋</h1>
 
-<!--
-**anoshandrews/anoshandrews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Artist+%7C+Creative+Coder;Lifelong+Learner" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About Me
+
+- 🔭 I’m currently working as a Machine Learning Engineer
+- 🎨 I love experimenting with art and creative coding
+- 🌱 Always learning new tech, tools, and random hobbies
+- 💡 Ask me about Python, ML, AI, and quirky art projects
+- ⚡ Fun fact: I sometimes talk to rubber ducks to debug my code.
+
+---
+
+## 🛠️ Tech Stack
+
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+## ☕ Let’s Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/) <!-- replace with your profile -->
+- 🐦 [Twitter](https://twitter.com/) <!-- replace with your profile -->
+- 🌐 [My Website](https://yourwebsite.com) <!-- replace with your website -->
+
+---
+
+*Thanks for stopping by! Have an awesome day! 🚀*
