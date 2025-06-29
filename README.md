@@ -17,8 +17,6 @@
 
 ## ♨︎ About Me
 
-## ♨︎ About Me
-
 - My background is in **Philosophy**. You might be skeptical right now—but hear me out.
 - I was happily immersed in my philosophical studies until one day, I stumbled upon an old i3 4th Gen laptop that my brother had thrown away.
 - It had a dead battery. I wasn’t a complete stranger to computers, thanks to countless encounters with the Windows Blue Screen of Death.
